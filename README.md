@@ -1,16 +1,9 @@
-
-# Pricing Landing Page 
-
- A basic Pricing Landing Page made with "HTML" and "CSS" which is responsive to the screen dimension of the device.
- 
-
-
-
 ## Design
 
-A three column design showing diffrent subscription plans with the advantages they are bringing along is put together in an unorderd list using HTML.
+A three column design showing diffrent subscription plans with the advantages they are bringing along is put together in an unorderd list under three diffrent "div" tags having class name 'price-col' so that it became easy to apply the styles to all three columns altogether.
 
-A button for "Add to cart" is added under each plan with a hover effect using transition in CSS.
-## Challenges
+Background is a combination of two solid colors put in a linear gradient with an angle of 45degree.
 
-I was unable to change the solid background to an external image of my choice.
+A glowing Effect is added on the titles of plans  with a Hover effect collectively  so that every price column card pops out when cursor hovers over it.
+
+A button for "Add to cart" is added under each plan with a hover effect which also turns transparent.
